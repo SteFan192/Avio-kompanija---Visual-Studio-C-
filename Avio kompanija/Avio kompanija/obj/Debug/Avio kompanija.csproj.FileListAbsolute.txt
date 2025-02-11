@@ -1,0 +1,16 @@
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\bin\Debug\Avio kompanija.exe.config
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\bin\Debug\Avio kompanija.exe
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\bin\Debug\Avio kompanija.pdb
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\MainWindow.g.cs
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\App.g.cs
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija_MarkupCompile.cache
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija_MarkupCompile.lref
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\MainWindow.baml
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.g.resources
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio_kompanija.Properties.Resources.resources
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.csproj.GenerateResource.cache
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.exe
+C:\Users\korisnik\Desktop\Projektovanje softvera - SQL database TA\Avio kompanija\Avio kompanija\obj\Debug\Avio kompanija.pdb
